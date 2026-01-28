@@ -1,0 +1,3 @@
+# 告诉Netlify函数的目录位置
+[build]
+functions = "functions"
